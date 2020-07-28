@@ -78,3 +78,6 @@ Install [mac-vendor-lookup](https://pypi.org/project/mac-vendor-lookup/)
 ```sh
 sudo pip3 install mac-vendor-lookup
 ```
+
+## About
+This script was created for use in an exercise of the course Mobile Network Security (2019-2020) at University of Piraeus.
